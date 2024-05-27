@@ -2,6 +2,7 @@
 
 ## 🚀 Sobre Mí
 Soy un Ingeniero Informático especializado en análisis y ciencia de datos, con certificaciones en Data Analyst y actualmente en proceso de obtener la certificación en Data Science.
+En este perfil encontraras algunos desafios de python y sql (tambien sus librerias)
 
 ## 🛠 Herramientas y Tecnologías
 - **Lenguajes de Programación**:
